@@ -6780,7 +6780,7 @@ height:392px
 }
 
 .maincontentsleadop{
-  background-color: red;
+  background-color: green;
   margin: 20px 10px;
   float: left;
   width: 70%;
@@ -6789,6 +6789,43 @@ height:392px
 .popular-contentsleadop{
   margin-top: 20px;
 }
+
+.curriculum-colleadop{
+  clear: left;
+}
+
+.left-box{
+  width: 600px;
+  border:2px solid white;
+  margin: 3px;
+}
+
+.right-box{
+  width: 200px;
+  border:2px solid gray;
+  margin: 3px; 
+}
+.table-label
+
+.progress-bar{
+  float: left;
+  width: 0;
+  height: 20%;
+  font-size: 12px;
+  line-height: 20px;
+  background-color: #337ab7;
+  -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,0.15);
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,0.15);
+  -webkit-transition: width .6s ease;
+  -o-transition: width .6s ease;
+  transition: width .6s ease;
+}
+
+
+
+
+
+
 
 .sidebarleadop{
   background-color: green;
